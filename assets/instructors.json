@@ -1,0 +1,22 @@
+{
+    "Instructors": {
+        "Select Value":{
+            "Max-Weight": 200,
+            "Min-Weight": 100,
+            "Probation": 0,
+            "Hand-Cam" : 0
+        },
+        "Ting":{
+            "Max-Weight": 200,
+            "Min-Weight": 100,
+            "Probation": 0,
+            "Hand-Cam" : 0
+        },
+        "Ben":{
+            "Max-Weight": 200,
+            "Min-Weight": 100,
+            "Probation": 0,
+            "Hand-Cam" : 0
+        }
+    }
+}
